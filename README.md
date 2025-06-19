@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi, I'm Gabriel Eli 👋
 
-🎓 Computer Engineering Student @ CESUPA | Tech Innovator Bridging Hardware & Software
-💡 Passionate about IoT, Embedded Systems & Robotics — turning concepts into functional prototypes with ESP32, Bluetooth, and RFID.
-🐍 Expanding my expertise: Currently diving deep into Python and Machine Learning to build intelligent systems.
-🔧 Builder at heart: From embedded firmware to data-driven algorithms, I love solving real-world problems with code.
-🚀 Motto: "No pain, no gain." (Yes, I debug circuits at 2 AM 💻⚡).
+🎓 Computer Engineering Student @ CESUPA | Bridging Hardware & Software with Innovation  
+💡 Passionate about IoT, Embedded Systems & Robotics — turning bold ideas into functional prototypes using ESP32, Bluetooth, and RFID.  
+🐍 Currently diving deep into Python and Machine Learning to create smarter, more adaptive systems.  
+🔧 Builder at heart: From embedded firmware to data-driven algorithms, I thrive on solving real-world problems with code.  
+🚀 Motto: _"No pain, no gain."_ (Yes, I debug circuits at 2 AM 💻⚡)
 
-📫 Let’s collaborate!
-→ 
+📫 Let’s connect and collaborate!  
+→ [LinkedIn](https://www.linkedin.com/in/seu-perfil)
