@@ -7,4 +7,4 @@
 🚀 Motto: _"No pain, no gain."_ (Yes, I debug circuits at 2 AM 💻⚡)
 
 📫 Let’s connect and collaborate!  
-→ [LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-eli-de-almeida-dias-72a3b4302/))
+→ [LinkedIn]((https://www.linkedin.com/in/gabriel-eli-de-almeida-dias-72a3b4302/))
